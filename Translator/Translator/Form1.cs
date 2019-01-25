@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
@@ -77,6 +77,7 @@ namespace Translator
             textBox1.Text = textBox1.Text.Replace("[2]", "C");
             textBox1.Text = textBox1.Text.Replace("[3]", "D");
             textBox1.Text = textBox1.Text.Replace("[4]", "E");
+            textBox1.Text = textBox1.Text.Replace("[5]", "F");
             textBox1.Text = textBox1.Text.Replace("[6]", "G");
             textBox1.Text = textBox1.Text.Replace("[7]", "H");
             textBox1.Text = textBox1.Text.Replace("[8]", "I");
